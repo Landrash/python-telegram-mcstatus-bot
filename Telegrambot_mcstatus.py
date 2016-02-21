@@ -12,7 +12,7 @@ import logging
 from mcstatus import MinecraftServer
 from telegram import Updater
 
-token="169335831:AAEUo5_K2ek84GSr9UprNkjTfzuve3uO_-M" #Set token berore launching. Generate a token 
+token="TOKEN" #Set token berore launching. Generate a token 
 updater = Updater(token)
 dispatcher = updater.dispatcher
 
