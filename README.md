@@ -16,6 +16,7 @@ To use this bot your going to need a Telegram bot token, you can get it from the
 ###Commands
 /help Explains how to use the bot
 /start Standard teĺegram bot start message. Same output as /help
-/online Checks status of specified minecraft server. Use with /online ADDRESS"""
+/online Checks status of specified minecraft server. Use with /online ADDRESS
 
-Commands are used by sending a message to the bot you create. How to use bot are covered well in the telegram bots documentation.
+Commands are used by sending a message to the bot you create.
+How to use bot are covered well in the telegram bots documentation.
