@@ -13,9 +13,9 @@ To use this bot your going to need a Telegram bot token, you can get it from the
 - `$ python python-telegram-mcstatus-bot.py`
 
 ### Commands
-`/help`  Explains how to use the bot.
-`/start` Standard teĺegram bot start message. Same output as `/help`.
-`/online` Checks status of specified minecraft server. Use with `/online ADDRESS`.
+- `/help`  Explains how to use the bot.
+- `/start` Standard teĺegram bot start message. Same output as `/help`.
+- `/online` Checks status of specified minecraft server. Use with `/online ADDRESS`.
 
 Commands are used by sending a message to the bot you create.
 How to use bot are covered well in the [Telegram Bots](https://core.telegram.org/bots) documentation.
